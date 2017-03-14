@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="Drawer_Open">Open Drawer</string>
+    <string name="Drawer_Close">Close Drawer</string>
+    <string-array name="frames">
+          <item>frame1</item>
+          <item>frame2</item>
+          <item>frame3</item>
+          <item>frame4</item>
+    </string-array>
+
+    <string name="menu_vector_path" translatable="false">M20 30,L80 30,M20 50,L80 50,M20 70,L80 70</string>
+    <string name="back_vector_path" translatable="false">M50 25,L80 50,M20 50,L80 50,M50 75,L80 50</string>
+
+</resources>
